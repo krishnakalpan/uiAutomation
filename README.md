@@ -1,6 +1,5 @@
 # uiAutomation
 
-
 Automation framework for mobile and web applications
 
 This framework is implemented in datadriven approach.where the tests reads a input excel/cvs/json file to identify the data that needs  to pass the tests for inputData and expected Data.
